@@ -10,6 +10,7 @@ return array(
     'yii\\redis\\' => array($vendorDir . '/yiisoft/yii2-redis/src'),
     'yii\\gii\\' => array($vendorDir . '/yiisoft/yii2-gii/src'),
     'yii\\faker\\' => array($vendorDir . '/yiisoft/yii2-faker/src'),
+    'yii\\elasticsearch\\' => array($vendorDir . '/yiisoft/yii2-elasticsearch'),
     'yii\\debug\\' => array($vendorDir . '/yiisoft/yii2-debug/src'),
     'yii\\composer\\' => array($vendorDir . '/yiisoft/yii2-composer'),
     'yii\\bootstrap\\' => array($vendorDir . '/yiisoft/yii2-bootstrap/src'),

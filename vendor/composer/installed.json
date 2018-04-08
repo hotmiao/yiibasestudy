@@ -261,17 +261,17 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Codeception/base.git",
-            "reference": "b8f173dfb3eecbfe46becb392b14e793853336e6"
+            "reference": "fb07b713f2a97cdf0c5c81c93fa26a0785eb44a6"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Codeception/base/zipball/b8f173dfb3eecbfe46becb392b14e793853336e6",
-            "reference": "b8f173dfb3eecbfe46becb392b14e793853336e6",
+            "url": "https://files.phpcomposer.com/files/Codeception/base/fb07b713f2a97cdf0c5c81c93fa26a0785eb44a6.zip",
+            "reference": "fb07b713f2a97cdf0c5c81c93fa26a0785eb44a6",
             "shasum": ""
         },
         "require": {
             "behat/gherkin": "^4.4.0",
-            "codeception/phpunit-wrapper": "^6.0|^7.0",
+            "codeception/phpunit-wrapper": "^6.0.9|^7.0.6",
             "codeception/stub": "^1.0",
             "ext-json": "*",
             "ext-mbstring": "*",
@@ -309,7 +309,7 @@
             "stecman/symfony-console-completion": "For BASH autocompletion",
             "symfony/phpunit-bridge": "For phpunit-bridge support"
         },
-        "time": "2018-02-27T00:17:07+00:00",
+        "time": "2018-03-31T22:36:34+00:00",
         "bin": [
             "codecept"
         ],
@@ -352,12 +352,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Codeception/phpunit-wrapper.git",
-            "reference": "e18f3ea1f841bfd2cecaf6e183e584127b9d467b"
+            "reference": "450f1cfc5f49539c421061e64338f5edb8baad6a"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Codeception/phpunit-wrapper/zipball/e18f3ea1f841bfd2cecaf6e183e584127b9d467b",
-            "reference": "e18f3ea1f841bfd2cecaf6e183e584127b9d467b",
+            "url": "https://files.phpcomposer.com/files/Codeception/phpunit-wrapper/450f1cfc5f49539c421061e64338f5edb8baad6a.zip",
+            "reference": "450f1cfc5f49539c421061e64338f5edb8baad6a",
             "shasum": ""
         },
         "require": {
@@ -373,7 +373,7 @@
             "codeception/specify": "*",
             "vlucas/phpdotenv": "^2.4"
         },
-        "time": "2018-03-16T10:17:47+00:00",
+        "time": "2018-03-31T18:50:01+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -672,12 +672,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/guzzle/psr7.git",
-            "reference": "99bfec281379c040f37dc3c3e9312476875a2f62"
+            "reference": "773750151c47189c24f9026620e43ddd55d453a2"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/guzzle/psr7/zipball/99bfec281379c040f37dc3c3e9312476875a2f62",
-            "reference": "99bfec281379c040f37dc3c3e9312476875a2f62",
+            "url": "https://files.phpcomposer.com/files/guzzle/psr7/773750151c47189c24f9026620e43ddd55d453a2.zip",
+            "reference": "773750151c47189c24f9026620e43ddd55d453a2",
             "shasum": ""
         },
         "require": {
@@ -690,7 +690,7 @@
         "require-dev": {
             "phpunit/phpunit": "~4.0"
         },
-        "time": "2018-03-26T16:50:35+00:00",
+        "time": "2018-03-29T00:18:34+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1499,18 +1499,18 @@
         "source": {
             "type": "git",
             "url": "https://github.com/php-fig/log.git",
-            "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d"
+            "reference": "3490ba5925e6dcbe6de950c5c6b8dce9f6e96eda"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/php-fig/log/zipball/4ebe3a8bf773a19edfe0a84b6585ba3d401b724d",
-            "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d",
+            "url": "https://files.phpcomposer.com/files/php-fig/log/3490ba5925e6dcbe6de950c5c6b8dce9f6e96eda.zip",
+            "reference": "3490ba5925e6dcbe6de950c5c6b8dce9f6e96eda",
             "shasum": ""
         },
         "require": {
             "php": ">=5.3.0"
         },
-        "time": "2016-10-10T12:19:37+00:00",
+        "time": "2018-04-03T15:59:15+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -2196,12 +2196,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/console.git",
-            "reference": "23c06f589689aa3de8bbe314be04535bdb691e51"
+            "reference": "d4bb70fa24d540c309d88a9d6e43fb2d339b1fbf"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/console/zipball/23c06f589689aa3de8bbe314be04535bdb691e51",
-            "reference": "23c06f589689aa3de8bbe314be04535bdb691e51",
+            "url": "https://files.phpcomposer.com/files/symfony/console/d4bb70fa24d540c309d88a9d6e43fb2d339b1fbf.zip",
+            "reference": "d4bb70fa24d540c309d88a9d6e43fb2d339b1fbf",
             "shasum": ""
         },
         "require": {
@@ -2227,7 +2227,7 @@
             "symfony/lock": "",
             "symfony/process": ""
         },
-        "time": "2018-03-19T22:32:39+00:00",
+        "time": "2018-04-03T05:22:50+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -2322,12 +2322,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/debug.git",
-            "reference": "59ef7fdee70146d55da5a61bf8e9ad5901eb0fa0"
+            "reference": "9cf7c2271cfb89ef9727db1b740ca77be57bf9d7"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/debug/zipball/59ef7fdee70146d55da5a61bf8e9ad5901eb0fa0",
-            "reference": "59ef7fdee70146d55da5a61bf8e9ad5901eb0fa0",
+            "url": "https://files.phpcomposer.com/files/symfony/debug/9cf7c2271cfb89ef9727db1b740ca77be57bf9d7.zip",
+            "reference": "9cf7c2271cfb89ef9727db1b740ca77be57bf9d7",
             "shasum": ""
         },
         "require": {
@@ -2340,7 +2340,7 @@
         "require-dev": {
             "symfony/http-kernel": "~2.8|~3.0|~4.0"
         },
-        "time": "2018-03-19T22:32:39+00:00",
+        "time": "2018-04-03T05:22:50+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -2438,12 +2438,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/event-dispatcher.git",
-            "reference": "58990682ac3fdc1f563b7e705452921372aad11d"
+            "reference": "fdd5abcebd1061ec647089c6c41a07ed60af09f8"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/58990682ac3fdc1f563b7e705452921372aad11d",
-            "reference": "58990682ac3fdc1f563b7e705452921372aad11d",
+            "url": "https://files.phpcomposer.com/files/symfony/event-dispatcher/fdd5abcebd1061ec647089c6c41a07ed60af09f8.zip",
+            "reference": "fdd5abcebd1061ec647089c6c41a07ed60af09f8",
             "shasum": ""
         },
         "require": {
@@ -2463,7 +2463,7 @@
             "symfony/dependency-injection": "",
             "symfony/http-kernel": ""
         },
-        "time": "2018-02-14T10:03:57+00:00",
+        "time": "2018-04-06T07:35:25+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -2503,18 +2503,18 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/finder.git",
-            "reference": "a479817ce0a9e4adfd7d39c6407c95d97c254625"
+            "reference": "bd14efe8b1fabc4de82bf50dce62f05f9a102433"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/finder/zipball/a479817ce0a9e4adfd7d39c6407c95d97c254625",
-            "reference": "a479817ce0a9e4adfd7d39c6407c95d97c254625",
+            "url": "https://files.phpcomposer.com/files/symfony/finder/bd14efe8b1fabc4de82bf50dce62f05f9a102433.zip",
+            "reference": "bd14efe8b1fabc4de82bf50dce62f05f9a102433",
             "shasum": ""
         },
         "require": {
             "php": "^5.5.9|>=7.0.8"
         },
-        "time": "2018-03-05T18:28:11+00:00",
+        "time": "2018-04-04T05:07:11+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -2615,12 +2615,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/yaml.git",
-            "reference": "6af42631dcf89e9c616242c900d6c52bd53bd1bb"
+            "reference": "033cfa61ef06ee0847e056e530201842b6e926c3"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/yaml/zipball/6af42631dcf89e9c616242c900d6c52bd53bd1bb",
-            "reference": "6af42631dcf89e9c616242c900d6c52bd53bd1bb",
+            "url": "https://files.phpcomposer.com/files/symfony/yaml/033cfa61ef06ee0847e056e530201842b6e926c3.zip",
+            "reference": "033cfa61ef06ee0847e056e530201842b6e926c3",
             "shasum": ""
         },
         "require": {
@@ -2635,7 +2635,7 @@
         "suggest": {
             "symfony/console": "For validating YAML files using the lint command"
         },
-        "time": "2018-02-16T09:50:28+00:00",
+        "time": "2018-04-08T08:21:29+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -2727,12 +2727,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/yiisoft/yii2-framework.git",
-            "reference": "69960cfab469c0e1d9fccd2afb58718b7d4a7069"
+            "reference": "8436dd12404c6492cb267ca18991b9328be00363"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/69960cfab469c0e1d9fccd2afb58718b7d4a7069",
-            "reference": "69960cfab469c0e1d9fccd2afb58718b7d4a7069",
+            "url": "https://files.phpcomposer.com/files/yiisoft/yii2-framework/8436dd12404c6492cb267ca18991b9328be00363.zip",
+            "reference": "8436dd12404c6492cb267ca18991b9328be00363",
             "shasum": ""
         },
         "require": {
@@ -2748,7 +2748,7 @@
             "php": ">=5.4.0",
             "yiisoft/yii2-composer": "~2.0.4"
         },
-        "time": "2018-03-27T13:30:49+00:00",
+        "time": "2018-04-06T13:49:17+00:00",
         "bin": [
             "yii"
         ],
@@ -2829,19 +2829,19 @@
         "source": {
             "type": "git",
             "url": "https://github.com/yiisoft/yii2-bootstrap.git",
-            "reference": "0c74f9c383f366e8cd0892fccb2158bf52a0839e"
+            "reference": "7889c96f786c5cafd7a7325b432d774029835647"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/yiisoft/yii2-bootstrap/zipball/0c74f9c383f366e8cd0892fccb2158bf52a0839e",
-            "reference": "0c74f9c383f366e8cd0892fccb2158bf52a0839e",
+            "url": "https://files.phpcomposer.com/files/yiisoft/yii2-bootstrap/7889c96f786c5cafd7a7325b432d774029835647.zip",
+            "reference": "7889c96f786c5cafd7a7325b432d774029835647",
             "shasum": ""
         },
         "require": {
             "bower-asset/bootstrap": "3.3.* | 3.2.* | 3.1.*",
             "yiisoft/yii2": "~2.0.6"
         },
-        "time": "2018-03-14T22:31:15+00:00",
+        "time": "2018-04-04T23:06:29+00:00",
         "type": "yii2-extension",
         "extra": {
             "branch-alias": {
@@ -2947,19 +2947,19 @@
         "source": {
             "type": "git",
             "url": "https://github.com/yiisoft/yii2-debug.git",
-            "reference": "f49234bdb54a9a5baef52a1ac73b7e5f33fab7b3"
+            "reference": "ad32bff2411d798c5d58c687bd8815c64f4ab9bf"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/yiisoft/yii2-debug/zipball/f49234bdb54a9a5baef52a1ac73b7e5f33fab7b3",
-            "reference": "f49234bdb54a9a5baef52a1ac73b7e5f33fab7b3",
+            "url": "https://files.phpcomposer.com/files/yiisoft/yii2-debug/ad32bff2411d798c5d58c687bd8815c64f4ab9bf.zip",
+            "reference": "ad32bff2411d798c5d58c687bd8815c64f4ab9bf",
             "shasum": ""
         },
         "require": {
             "yiisoft/yii2": "~2.0.13",
             "yiisoft/yii2-bootstrap": "~2.0.0"
         },
-        "time": "2018-02-28T23:27:35+00:00",
+        "time": "2018-04-04T16:40:28+00:00",
         "type": "yii2-extension",
         "extra": {
             "branch-alias": {
@@ -2990,25 +2990,76 @@
         ]
     },
     {
+        "name": "yiisoft/yii2-elasticsearch",
+        "version": "2.1.x-dev",
+        "version_normalized": "2.1.9999999.9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/yiisoft/yii2-elasticsearch.git",
+            "reference": "ca76f01e93605b2b6dfb7dbaa30cf4070141bf7c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/yiisoft/yii2-elasticsearch/ca76f01e93605b2b6dfb7dbaa30cf4070141bf7c.zip",
+            "reference": "ca76f01e93605b2b6dfb7dbaa30cf4070141bf7c",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "yiisoft/yii2": "~2.0.14"
+        },
+        "time": "2018-03-27T22:33:22+00:00",
+        "type": "yii2-extension",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "yii\\elasticsearch\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Carsten Brandt",
+                "email": "mail@cebe.cc"
+            }
+        ],
+        "description": "Elasticsearch integration and ActiveRecord for the Yii framework",
+        "keywords": [
+            "active-record",
+            "elasticsearch",
+            "fulltext",
+            "search",
+            "yii2"
+        ]
+    },
+    {
         "name": "yiisoft/yii2-faker",
         "version": "dev-master",
         "version_normalized": "9999999-dev",
         "source": {
             "type": "git",
             "url": "https://github.com/yiisoft/yii2-faker.git",
-            "reference": "743950103ecc7c586ff4cc0d3a66c37bf57783ea"
+            "reference": "6fd989e79369a8b8e79099e4d5098fc44faa6176"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/yiisoft/yii2-faker/zipball/743950103ecc7c586ff4cc0d3a66c37bf57783ea",
-            "reference": "743950103ecc7c586ff4cc0d3a66c37bf57783ea",
+            "url": "https://files.phpcomposer.com/files/yiisoft/yii2-faker/6fd989e79369a8b8e79099e4d5098fc44faa6176.zip",
+            "reference": "6fd989e79369a8b8e79099e4d5098fc44faa6176",
             "shasum": ""
         },
         "require": {
             "fzaninotto/faker": "~1.4",
             "yiisoft/yii2": "~2.0.0"
         },
-        "time": "2018-03-14T22:37:00+00:00",
+        "time": "2018-04-04T16:39:34+00:00",
         "type": "yii2-extension",
         "extra": {
             "branch-alias": {
@@ -3045,12 +3096,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/yiisoft/yii2-gii.git",
-            "reference": "f8b912fee3c1924ffcc3dde23b0cf7117318713c"
+            "reference": "563fde754533b67ff04f934d7a236c76decb0305"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/yiisoft/yii2-gii/zipball/f8b912fee3c1924ffcc3dde23b0cf7117318713c",
-            "reference": "f8b912fee3c1924ffcc3dde23b0cf7117318713c",
+            "url": "https://files.phpcomposer.com/files/yiisoft/yii2-gii/563fde754533b67ff04f934d7a236c76decb0305.zip",
+            "reference": "563fde754533b67ff04f934d7a236c76decb0305",
             "shasum": ""
         },
         "require": {
@@ -3059,7 +3110,7 @@
             "yiisoft/yii2": "~2.0.14",
             "yiisoft/yii2-bootstrap": "~2.0.0"
         },
-        "time": "2018-03-14T22:46:15+00:00",
+        "time": "2018-04-04T12:06:01+00:00",
         "type": "yii2-extension",
         "extra": {
             "branch-alias": {
@@ -3100,12 +3151,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/yiisoft/yii2-redis.git",
-            "reference": "cd3df84c7e132b6b244737ffcfd0e1b13d8a192f"
+            "reference": "296f9dff1f4730af67dc105fcab017ca82a11b27"
         },
         "dist": {
             "type": "zip",
-            "url": "https://files.phpcomposer.com/files/yiisoft/yii2-redis/cd3df84c7e132b6b244737ffcfd0e1b13d8a192f.zip",
-            "reference": "cd3df84c7e132b6b244737ffcfd0e1b13d8a192f",
+            "url": "https://files.phpcomposer.com/files/yiisoft/yii2-redis/296f9dff1f4730af67dc105fcab017ca82a11b27.zip",
+            "reference": "296f9dff1f4730af67dc105fcab017ca82a11b27",
             "shasum": ""
         },
         "require": {
@@ -3114,7 +3165,7 @@
         "require-dev": {
             "yiisoft/yii2-dev": "~2.0.14"
         },
-        "time": "2018-03-27T22:32:03+00:00",
+        "time": "2018-04-05T14:25:39+00:00",
         "type": "yii2-extension",
         "extra": {
             "branch-alias": {

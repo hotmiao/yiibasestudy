@@ -125,4 +125,16 @@ class SiteController extends Controller
     {
         return $this->render('about');
     }
+
+    public function actionTest()
+    {
+        $redis = Yii::$app->redis;
+        $key = "username";
+        if ($val = $redis->get($key)) {
+            var_dump($val);
+        } else {
+            $redis->set($key, 'marko');
+            $redis->expire($key, 5);
+        }
+    }
 }

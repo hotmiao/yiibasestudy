@@ -22,6 +22,7 @@ class ComposerStaticInite097a698477868a2b8d77e38e017476f
             'yii\\redis\\' => 10,
             'yii\\gii\\' => 8,
             'yii\\faker\\' => 10,
+            'yii\\elasticsearch\\' => 18,
             'yii\\debug\\' => 10,
             'yii\\composer\\' => 13,
             'yii\\bootstrap\\' => 14,
@@ -93,6 +94,10 @@ class ComposerStaticInite097a698477868a2b8d77e38e017476f
         'yii\\faker\\' => 
         array (
             0 => __DIR__ . '/..' . '/yiisoft/yii2-faker/src',
+        ),
+        'yii\\elasticsearch\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/yiisoft/yii2-elasticsearch',
         ),
         'yii\\debug\\' => 
         array (
